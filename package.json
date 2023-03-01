@@ -1,0 +1,23 @@
+{
+  "name": "test-practices",
+  "version": "1.0.0",
+  "description": "",
+  "main": "reverseString.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Roland-Ntwali/Test-practices.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Roland-Ntwali/Test-practices/issues"
+  },
+  "homepage": "https://github.com/Roland-Ntwali/Test-practices#readme",
+  "devDependencies": {
+    "jest": "^29.4.3"
+  }
+}
